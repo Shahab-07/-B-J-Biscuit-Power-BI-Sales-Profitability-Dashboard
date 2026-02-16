@@ -43,6 +43,8 @@ This project demonstrates strong data modeling, KPI design, and business intelli
 
 ## Preview
 
+<img href = "https://github.com/Shahab-07/-B-J-Biscuit-Power-BI-Sales-Profitability-Dashboard/blob/main/1.png">preview<img>
+<img href = "https://github.com/Shahab-07/-B-J-Biscuit-Power-BI-Sales-Profitability-Dashboard/blob/main/2.png">preview<img>
 ---
 
 ## 🎯 Project Purpose
