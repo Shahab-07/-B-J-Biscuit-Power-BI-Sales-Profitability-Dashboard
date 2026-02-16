@@ -1,0 +1,2 @@
+# -B-J-Biscuit-Power-BI-Sales-Profitability-Dashboard
+An interactive Power BI dashboard built to analyze sales performance, revenue contribution, customer profitability, and business trends for B&amp;J Biscuit.  This dashboard provides deep insights into revenue distribution, profit margins, customer segmentation, payment trends, and location-based performance using dynamic filters and KPI indicators.
